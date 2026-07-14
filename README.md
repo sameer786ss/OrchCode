@@ -4,12 +4,6 @@
 </p>
 
 <p align="center">
-  <a href="#-key-features">Features</a> •
-  <a href="#-autonomous-agent-system">Agent</a> •
-  <a href="#-why-orch-ai-vs-other-assistants">vs Others</a> •
-  <a href="#-privacy--security">Privacy</a> 
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/license-Proprietary-blue?style=flat-square" alt="License">
   <img src="https://img.shields.io/badge/version-1.0.0-brightgreen?style=flat-square" alt="Version">
 </p>
