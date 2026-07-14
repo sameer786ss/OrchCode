@@ -78,7 +78,7 @@ This repository and its entire contents are the proprietary intellectual propert
   </sub>
   <br /><br />
   <sub>
-    <a href="https://github.com/sameer786ss/OrchCode/releases">⬇️ Download </a> &nbsp;•&nbsp;
+    <a href="https://github.com/sameer786ss/OrchCode/releases">⬇️ Download Latest App</a>
   </sub>
   <br /><br />
   <sub><em>Orch Code — because your pc deserves a agentic harness.</em></sub>
