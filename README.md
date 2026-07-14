@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/version-1.0.0-brightgreen?style=flat-square" alt="Version">
 </p>
 <br />
----
 
 ## 🌟 Welcome to the Future of Software Development
 
