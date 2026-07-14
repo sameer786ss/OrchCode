@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/version-1.0.0-brightgreen?style=flat-square" alt="Version">
 </p>
 <br />
+
 ## 🌟 Welcome to the Future of Software Development
 
 **OrchCode** isn't just another AI chat interface. It is a fully integrated **Agentic Workspace Orchestrator** designed for modern software teams and solo developers who demand more than simple auto-completion. 
